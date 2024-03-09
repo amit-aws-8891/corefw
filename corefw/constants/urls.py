@@ -1,0 +1,12 @@
+GATEWAY_GET_URL = "v1/get-access"
+GATEWAY_POST_URL = "v1/post-access"
+GATEWAY_SOAP_URL = "v1/soap-access"
+APIKEYS_URL = "v1/apikeys"
+VLS_APIKEYS_URL = "v1/vls-apikeys"
+APIK_GROUP_URL = "v1/api-group"
+SANDBOX_INTEGRATION_DETAILS_URL = "v1/sandbox-integration/<string:provider_code>"
+SANDBOX_INTEGRATION_URL = "v1/sandbox-integration"
+INTEGRATION_DETAIL_URL = "v1/integration/<string:provider_code>"
+
+INTEGRATION_URL = "v1/integration"
+INTEGRATION_DETAILS_URL = "v1/integration/<string:provider_code>"
